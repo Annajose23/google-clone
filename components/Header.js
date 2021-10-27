@@ -49,7 +49,7 @@ function Header() {
             Search
           </button>
         </form>
-        <Avatar className="ml-auto" url="https://ca-times.brightspotcdn.com/dims4/default/ac03f2f/2147483647/strip/true/crop/480x600+0+0/resize/840x1050!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F77%2Fa1%2Fb742a26a4455a64338630531d220%2Fjared-padalecki-booking-photo-10-27-2019.jpg"/>
+        <Avatar className="ml-auto" url="https://yt3.ggpht.com/yti/APfAmoFJePQNoxrdLR8wS2oQ_YK0GISEcCXNZLwhI7jE=s108-c-k-c0x00ffffff-no-rj"/>
       </div>
       <HeaderOptions/>
     </header>
